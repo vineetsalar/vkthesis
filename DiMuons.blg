@@ -1,0 +1,87 @@
+This is BibTeX, Version 0.99d (TeX Live 2012/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: DiMuons.aux
+The style file: h-physrev.bst
+Database file #1: mythesis.bib
+Warning--I didn't find a database entry for "INTRO"
+Warning--I didn't find a database entry for "SATZ"
+Warning--I didn't find a database entry for "LastCallLHC"
+Warning--I didn't find a database entry for "GAVIN"
+Warning--I didn't find a database entry for "LIN"
+Warning--I didn't find a database entry for "LIN2"
+Warning--I didn't find a database entry for "SHUR"
+Warning--I didn't find a database entry for "DKS"
+Warning--I didn't find a database entry for "zboson"
+Warning--I didn't find a database entry for "CMSQ"
+Warning--I didn't find a database entry for "ATLASJ"
+Warning--I didn't find a database entry for "RAARHIC"
+Warning--I didn't find a database entry for "RAAAlice"
+Warning--I didn't find a database entry for "GALL"
+Warning--I didn't find a database entry for "FEIN"
+Warning--I didn't find a database entry for "MUST"
+Warning--I didn't find a database entry for "RHICSingleEl"
+Warning--I didn't find a database entry for "CTEQ6"
+Warning--I didn't find a database entry for "EPS09"
+Warning--I didn't find a database entry for "CNV"
+Warning--I didn't find a database entry for "MNR"
+Warning--I didn't find a database entry for "NVF"
+Warning--I didn't find a database entry for "RVjoszo"
+Warning--I didn't find a database entry for "RVHP08"
+Warning--I didn't find a database entry for "PbPbTotal"
+Warning--I didn't find a database entry for "LEVAI"
+Warning--I didn't find a database entry for "vanNeerven"
+Warning--I didn't find a database entry for "HPpA"
+Warning--I didn't find a database entry for "PYTHIA"
+Warning--I didn't find a database entry for "FUV"
+Warning--I didn't find a database entry for "PHENIXqm12"
+Warning--I didn't find a database entry for "CMSqm12"
+Warning--I didn't find a database entry for "Bjorken"
+Warning--I didn't find a database entry for "KAJA"
+Warning--I didn't find a database entry for "VOGT"
+Warning--I didn't find a database entry for "GALE"
+Warning--I didn't find a database entry for "MULT"
+Warning--I didn't find a database entry for "CMS"
+Warning--I didn't find a database entry for "ATLAS"
+Warning--I didn't find a database entry for "ALICE"
+You've used 1 entry,
+            1946 wiz_defined-function locations,
+            684 strings with 5222 characters,
+and the built_in function-call counts, 196 in all, are:
+= -- 12
+> -- 6
+< -- 0
++ -- 2
+- -- 1
+* -- 16
+:= -- 31
+add.period$ -- 1
+call.type$ -- 1
+change.case$ -- 0
+chr.to.int$ -- 0
+cite$ -- 1
+duplicate$ -- 11
+empty$ -- 21
+format.name$ -- 2
+if$ -- 42
+int.to.chr$ -- 0
+int.to.str$ -- 1
+missing$ -- 1
+newline$ -- 7
+num.names$ -- 1
+pop$ -- 5
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 7
+stack$ -- 0
+substring$ -- 10
+swap$ -- 3
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 2
+width$ -- 2
+write$ -- 9
+(There were 40 warnings)
